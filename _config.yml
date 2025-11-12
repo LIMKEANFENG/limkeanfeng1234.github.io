@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "TEST"
+  name             : "Ethan Chuah"
   pronouns         : # example: "she/her"  
-  bio              : "im a girl"
+  bio              : "Hi! I’m a 13-year-old who loves exploring the world of music, robotics, and games. I play the piano, build and code LEGO Spike Prime robots using Scratch, Python, and Pybricks, and enjoy solving problems through creativity and technology. When I’m not coding or practicing piano, you’ll probably find me gaming or eating my favorite foods. I’m always learning new things and dreaming about creating something awesome that mixes music and robots one day!"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
