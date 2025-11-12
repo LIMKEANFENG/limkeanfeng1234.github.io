@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "My Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 🎵 About Me
 
-Hi! I’m [Your Name], a 13-year-old who loves exploring new things, especially anything to do with music, robots, and games.
+Hi! I’m Ethan, a 13-year-old who loves exploring new things, especially anything to do with music, robots, and games.
 
 🎹 My Hobbies & Interests
 
